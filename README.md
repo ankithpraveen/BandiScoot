@@ -1,4 +1,4 @@
-# BandiScoot
+# BandiScoot (Platformer)
 
 A Mario-type 2D Platfomer Endless Runner Game. 
 
